@@ -15,3 +15,7 @@
 1. Download model weights from https://github.com/yu4u/age-gender-estimation/releases/download/v0.5/weights.18-4.06.hdf5 and put it in 'models/' folder.
 2. Run 'emotions_recorder.ipynb' to analyse stream from web-cam or video-file. Save result with "time,reaction,reaction_tense,age,gender" columns in .csv format.
 3. Run 'emotions_analyser.ipynb' to draw charts of your user's reaction by second. 
+
+# Presentation
+
+https://youtu.be/Ed0NJqM8M8A
